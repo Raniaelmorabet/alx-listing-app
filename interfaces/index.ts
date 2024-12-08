@@ -1,0 +1,6 @@
+interface ICardProps {
+
+}
+interface IButtonProps {
+
+}
